@@ -1,0 +1,9 @@
+.box{
+    border: 3px solid slateblue;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
